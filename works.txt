@@ -1,0 +1,1 @@
+It works because this file doesn't use diacritics
