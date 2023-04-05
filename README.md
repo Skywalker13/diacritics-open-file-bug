@@ -19,4 +19,4 @@ It prints the filename and the content into the console.
 
 Nothing is print.
 
-![](demo.webm)
+![](demo.gif)
