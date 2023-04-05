@@ -18,3 +18,5 @@ It prints the filename and the content into the console.
 3. Drag and drop `cassé.txt` file on the electron app (dock)
 
 Nothing is print.
+
+![](demo.webm)
