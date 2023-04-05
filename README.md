@@ -1,4 +1,4 @@
-# This repository exposes a old bug on macOS and file names with diacritics
+# This repository exposes a old bug on macOS and file names with diacritics and Electron
 
 The bug appears with the macOS specific `open-file` app event. When a filename (or the path) contents diacritics, the event is not received.
 
